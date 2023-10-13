@@ -8,4 +8,4 @@
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=3000&pause=1000&color=408300&center=true&vCenter=true&width=435&lines=%24.%2Fusr%2Fbin%2Fwhoami;%3E+al3xt0r)](https://git.io/typing-svg)
+<center> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=3000&pause=1000&color=408300&center=true&vCenter=true&width=435&lines=%24.%2Fusr%2Fbin%2Fwhoami;%3E+al3xt0r)](https://git.io/typing-svg)
