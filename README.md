@@ -1,4 +1,4 @@
-<h3 align="center">Hello and welcome to my GitHub profile.<br>
+<h1 align="center">Hello and welcome to my GitHub profile.<br>
   <h2 align="center"><img src="https://media.giphy.com/media/4EiGNSTfy4WC4/giphy.gif" width="250"></h2>
 </h1>
 <h4 align="center">I'm a enguineering student, CTF player and cybersecurity enthusiast.</h4>
